@@ -1,0 +1,24 @@
+body {
+    background: var(--blue);
+}
+
+.spacer{
+    background: var(--turquoise);
+    padding: 10% 0 10% 0;
+}
+
+.hobbies{
+    background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;;
+    padding: 10% 0 10% 0;
+    color: var(--white);
+}
+
+.philosophy{
+    background: var(--turquoise);
+    padding: 10% 0 10% 0;
+}
+
+#education{
+    background: var(--white);
+    padding: 10% 0 10% 0;
+}
