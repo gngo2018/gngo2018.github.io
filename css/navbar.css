@@ -11,3 +11,11 @@
 nav {
     background: var(--black);
 }
+.navbar{
+    position: fixed;
+    width: 100%;
+    padding: 1.25%;
+}
+#navbarSupportedContent{
+    position: right;
+}
