@@ -7,18 +7,41 @@ body {
     padding: 10% 0 10% 0;
 }
 
-#hobbies{
-    background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;;
-    padding: 10% 0 10% 0;
+.spacer p{
+    padding:0 0 0 65%;
     color: var(--white);
 }
 
-.philosophy{
-    background: var(--turquoise);
-    padding: 10% 0 10% 0;
+#philosophy{
+    background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;;
+    padding: 5% 0 10% 0;
+    color: var(--white);
+}
+#philosophy h1{
+    text-align: center;
+    padding: 0 0 2% 0;
+}
+#philosophy h2{
+    text-align: center;
+    padding: 0 0 2% 0;
 }
 
-#education{
-    background: var(--white);
-    padding: 10% 0 10% 0;
+
+#hobbies{
+    background: var(--turquoise);
+    padding: 5% 0 10% 0;
+}
+
+#hobbies h1{
+    text-align:center;
+    padding-bottom: 5%;
+    color:var(--white)
+}
+
+#hobbies p{
+    color: var(--white)
+}
+
+#hobbies h5{
+    color: var(--white)
 }
