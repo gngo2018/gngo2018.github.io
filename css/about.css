@@ -13,3 +13,13 @@
     font-size: 300%;
     padding-bottom: 7%;
 }
+.icons{
+    text-align: right;
+}
+
+#linkedIn{
+    width:15%;
+}
+#github{
+    width:18%;
+}

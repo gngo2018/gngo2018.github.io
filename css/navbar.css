@@ -10,6 +10,7 @@
 
 nav {
     background: var(--black);
+    z-index: 2;
 }
 .navbar{
     position: fixed;

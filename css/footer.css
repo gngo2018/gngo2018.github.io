@@ -1,5 +1,22 @@
 .footer{
-    background: var(--black);
-    padding: 10% 0 5% 0;
+    background: #3C3C3C;
+    padding: 3% 0 5% 0;
     color: var(--white);
+}
+.iconsFoot{
+    text-align:center;
+    padding-right:3.5%;
+}
+#linkedInFoot{
+    width:2.75%;
+}
+#githubFoot{
+    width:3%;
+}
+#resumeFoot{
+    width:4%;
+}
+
+.copyright{
+    text-align:center;
 }
