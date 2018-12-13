@@ -1,6 +1,8 @@
 #projects{
     background: var(--white);
     padding: 5% 0 10% 0;
+    font-family: var(--font-seven);
+
 }
 #projects h1{
     text-align: center;

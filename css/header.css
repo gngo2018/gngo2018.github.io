@@ -8,7 +8,7 @@
     color: var(--white);
     font-size: 50px;
     padding: 0% 0% 22% 0%;
-    font-family: 'Cinzel', serif;
+    font-family: var(--font-six);
     font-size: 350%;
 }
 .logo{

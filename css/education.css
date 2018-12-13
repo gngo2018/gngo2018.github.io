@@ -1,6 +1,8 @@
 #education{
     background: var(--white);
     padding: 5% 0 10% 0;
+    font-family: var(--font-seven);
+
 }
 
 #education h1{

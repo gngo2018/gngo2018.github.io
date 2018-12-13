@@ -1,23 +1,28 @@
 .navbar-brand {
-    font-family: var(--font-one);
+    font-family: var(--font-six);
     color: white;
 }
 
 .nav-link {
     color: white;
-    font-family: var(--font-two);
+    font-family: var(--font-four);
+    float: right;
 }
 
 nav {
     background: var(--black);
     z-index: 2;
 }
+.navbar-toggler{
+    background-color: white;
+    color:black;
+}
 .navbar{
     position: fixed;
     width: 100%;
     padding: 1.25%;
 }
+
 #navbarSupportedContent{
-    position: right;
-    padding: 0 0 0 50%;
+    padding: 0 0 0 46%;
 }

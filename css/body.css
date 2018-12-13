@@ -8,14 +8,14 @@ body {
 }
 .spacer h1{
     color: var(--white);
-    font-family: 'Rokkitt', serif;
+    font-family: var(--font-four);
     text-align: right;
     font-size: 50px;
 }
 .spacer cite{
     padding:0 0 0 55%;
     color: var(--white);
-    font-family: 'Great Vibes', cursive;
+    font-family: var(--font-five);
     font-size: 30px;
 }
 
@@ -28,12 +28,16 @@ body {
     background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;;
     padding: 5% 0 10% 0;
     color: var(--white);
+    font-family: var(--font-four);
+    font-weight:bold;
 }
 #philosophy h1{
     text-align: center;
+    font-size:350%;
     padding: 0 0 2% 0;
 }
 #philosophy h2{
+    font-size:250%;
     text-align: center;
     padding: 0 0 2% 0;
 }
@@ -42,18 +46,22 @@ body {
 #hobbies{
     background: var(--turquoise);
     padding: 5% 0 10% 0;
+    font-family: var(--font-seven);
+
 }
 
 #hobbies h1{
     text-align:center;
     padding-bottom: 5%;
-    color:var(--white)
+    color:var(--white);
+    font-style: var(--font-seven);
+
 }
 
 #hobbies p{
-    color: var(--white)
+    color: var(--white);
 }
 
 #hobbies h5{
-    color: var(--white)
+    color: var(--white);
 }
