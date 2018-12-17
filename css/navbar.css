@@ -2,20 +2,18 @@
     font-family: var(--font-six);
     color: white;
 }
-
 .nav-link {
     color: white;
     font-family: var(--font-four);
-    float: right;
 }
-
 nav {
     background: var(--black);
     z-index: 2;
 }
 .navbar-toggler{
     background-color: white;
-    color:black;
+    color:white;
+    margin-right: 2%;
 }
 .navbar{
     position: fixed;

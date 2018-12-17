@@ -1,7 +1,6 @@
 body {
-    background: var(--blue);
+    background: var(--blue)
 }
-
 .spacer{
     background: var(--turquoise);
     padding: 5% 0 5% 0;
@@ -18,15 +17,14 @@ body {
     font-family: var(--font-five);
     font-size: 30px;
 }
-
 #target{
     width: 70%;
     padding-left:15%;
 }
-
 #philosophy{
-    background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;;
-    padding: 5% 0 10% 0;
+    background: url('../assests/bg/bg-3.jpg') no-repeat center center fixed;
+    background-size:cover;
+    padding: 5% 0 5% 0;
     color: var(--white);
     font-family: var(--font-four);
     font-weight:bold;
@@ -41,15 +39,17 @@ body {
     text-align: center;
     padding: 0 0 2% 0;
 }
-
-
+#philosophy img{
+    width:25%;
+}
+.QA{
+    text-align: center;
+}
 #hobbies{
     background: var(--turquoise);
     padding: 5% 0 10% 0;
     font-family: var(--font-seven);
-
 }
-
 #hobbies h1{
     text-align:center;
     padding-bottom: 5%;
@@ -57,11 +57,9 @@ body {
     font-style: var(--font-seven);
 
 }
-
 #hobbies p{
     color: var(--white);
 }
-
 #hobbies h5{
     color: var(--white);
 }

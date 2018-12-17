@@ -4,14 +4,12 @@
     font-family: var(--font-four);
 
 }
-
 #contact h1{
     text-align: center;
     padding-bottom: 15px;
     color: var(--white);
     font-size:350%;
 }
-
 #contact p{
     text-align: center;
     padding-bottom: 5px;
