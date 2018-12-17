@@ -19,3 +19,20 @@
 #resumeEducation{
     width:10%;
 }
+@media only screen and (max-width: 600px){
+    #education h1{
+        font-size: 100%;
+    }
+    #education h7{
+        font-size: 55%;
+    }
+    #education h5{
+        font-size: 57%;
+    }
+    #education p{
+        font-size: 57%;
+    }
+    #education a{
+        font-size: 57%;
+    }
+}

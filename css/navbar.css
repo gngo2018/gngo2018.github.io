@@ -15,6 +15,9 @@ nav {
     color:white;
     margin-right: 2%;
 }
+.line{
+    background-color:black;
+}
 .navbar{
     position: fixed;
     width: 100%;

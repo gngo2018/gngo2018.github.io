@@ -9,14 +9,15 @@ body {
     color: var(--white);
     font-family: var(--font-four);
     text-align: right;
-    font-size: 50px;
+    font-size: 300%;
 }
 .spacer cite{
     padding:0 0 0 55%;
     color: var(--white);
     font-family: var(--font-five);
-    font-size: 30px;
+    font-size: 200%;
 }
+
 #target{
     width: 70%;
     padding-left:15%;
@@ -62,4 +63,28 @@ body {
 }
 #hobbies h5{
     color: var(--white);
+}
+
+@media only screen and (max-width: 600px){
+    .spacer h1{
+        font-size: 100%;
+    }
+    .spacer cite{
+        font-size:70%;
+    }
+    #hobbies h1{
+        font-size: 100%;
+    }
+    #hobbies h5{
+        font-size: 80%;
+    }
+    #hobbies p{
+        font-size: 50%;
+    }
+    #philosophy h1{
+        font-size: 100%;
+    }
+    #philosophy h2{
+        font-size: 100%;
+    }
 }

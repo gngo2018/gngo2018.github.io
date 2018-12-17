@@ -13,11 +13,19 @@
 .logo{
     text-align:center;
     margin-bottom: 30px;
-    padding-top: 13%;
+    padding-top: 10%;
 }
+
 .filler{
     text-align: center;
     padding: 2% 0% 22% 0%;
-
-
+    
+}
+@media only screen and (max-width: 600px){
+    .logo{
+        padding-top:20%;        
+    }
+    #carousel p{
+        font-size: 45%;
+    }
 }

@@ -8,9 +8,20 @@
     text-align: center;
     padding: 0 0 10% 0;
 }
-.firstproject h5{
+.project h5{
     text-align: center;
 }
-.firstproject p{
+.project p{
     text-align: center;
 }
+ @media only screen and (max-width: 600px){
+    #projects h1{
+        font-size: 100%;
+    }
+    .project h5{
+        font-size: 60%;
+    }
+    .project p{
+        font-size: 55%;
+    }
+ }

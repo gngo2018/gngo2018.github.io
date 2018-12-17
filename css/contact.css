@@ -17,3 +17,11 @@
     font-size:120%;
 
 }
+@media only screen and (max-width: 600px){
+    #contact h1{
+        font-size: 150%;
+    }
+    #contact p{
+        font-size:100%;
+    }
+}
