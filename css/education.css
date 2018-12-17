@@ -19,7 +19,7 @@
 #resumeEducation{
     width:10%;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 550px){
     #education h1{
         font-size: 100%;
     }
