@@ -48,7 +48,7 @@ body {
 }
 #hobbies{
     background: var(--turquoise);
-    padding: 5% 0 10% 0;
+    padding: 6% 0 10% 0;
     font-family: var(--font-seven);
 }
 #hobbies h1{
@@ -63,6 +63,16 @@ body {
 }
 #hobbies h5{
     color: var(--white);
+}
+.hobbies img:hover{
+    transform: scale(1.1);
+}
+.hobbies h5{
+    padding-top: 4.5%;
+    text-align: center;
+}
+.hobbies p{
+    text-align: center;
 }
 
 @media only screen and (max-width: 600px){

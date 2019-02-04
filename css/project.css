@@ -1,12 +1,12 @@
 #projects{
     background: var(--white);
-    padding: 5% 0 10% 0;
+    padding: 6% 0 10% 0;
     font-family: var(--font-seven);
 
 }
 #projects h1{
     text-align: center;
-    padding: 0 0 10% 0;
+    padding: 0 0 5% 0;
 }
 .project h5{
     text-align: center;
@@ -14,6 +14,7 @@
 .project p{
     text-align: center;
 }
+
  @media only screen and (max-width: 550px){
     #projects h1{
         font-size: 100%;

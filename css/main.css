@@ -6,4 +6,7 @@
 @import "project.css";
 @import "contact.css";
 @import "footer.css";
-@import "education.css"
+@import "education.css";
+html{
+    scroll-behavior: smooth;
+}
