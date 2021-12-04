@@ -1,6 +1,6 @@
 .footer{
     background: #3C3C3C;
-    padding: 3% 0 5% 0;
+    padding: 3% 5% ;
     color: var(--white);
 }
 .iconsFoot{
@@ -18,4 +18,16 @@
 }
 .copyright{
     text-align:center;
+}
+
+@media (max-width:600px) {
+    #linkedInFoot{
+        width:10%;
+    }
+    #githubFoot{
+        width:10%;
+    }
+    #resumeFoot{
+        width:13%;
+    }  
 }

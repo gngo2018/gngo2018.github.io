@@ -40,4 +40,12 @@
     .project p{
         font-size: 55%;
     }
+
+    .project-link{
+        font-size:12px;
+    }
+
+    .project-description{
+        height:3rem;
+    }
  }

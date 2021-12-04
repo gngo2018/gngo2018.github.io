@@ -21,6 +21,19 @@
     padding: 2% 0% 22% 0%;
     
 }
+
+.hamburger-menu span{
+    display:block;
+}
+
+.hamburger-line{
+    margin:5px 0;
+    height: 2px;
+    width:30px;
+    background-color: white;
+    border-radius: 35%;
+}
+
 @media only screen and (max-width: 600px){
     .logo{
         padding-top:20%;        

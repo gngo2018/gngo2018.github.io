@@ -12,10 +12,10 @@ body {
     font-size: 300%;
 }
 .spacer cite{
-    padding:0 0 0 55%;
     color: var(--white);
     font-family: var(--font-five);
     font-size: 200%;
+    float:right;
 }
 
 #target{
