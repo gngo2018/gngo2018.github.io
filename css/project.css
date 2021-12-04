@@ -1,3 +1,7 @@
+.project img{
+    border-radius: 15px;
+}
+
 #projects{
     background: var(--white);
     padding: 6% 0 10% 0;
@@ -12,6 +16,17 @@
     text-align: center;
 }
 .project p{
+    text-align: center;
+    margin:0;
+    margin-top:10px;
+}
+
+.project-description{
+    height:4rem;
+}
+
+.project-link{
+    /* margin-top:25px; */
     text-align: center;
 }
 

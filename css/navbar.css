@@ -20,9 +20,17 @@ nav {
 .navbar{
     position: fixed;
     width: 100%;
-    padding: 1.25%;
+    padding: 1.25% 2;
+    display:flex;
+    justify-content: space-between;
 }
 
 #navbarSupportedContent{
-    padding: 0 0 0 46%;
+    flex-grow:0;
+}
+
+@media(min-width:1024px){
+    .navbar{
+        padding: 1.25% 20%;
+    }
 }

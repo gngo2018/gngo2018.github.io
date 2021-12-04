@@ -1,24 +1,39 @@
+.education img{
+    height:200px;
+    width:200px;
+    border-radius: 15px;
+}
+
 #education{
     background: var(--white);
     padding: 6% 0 5% 0;
     font-family: var(--font-seven);
+
 
 }
 #education h1{
     text-align: center;
     padding-bottom:5%;
     font-size:270%;
+
 }
 .resume{
     text-align: center;
     padding: 4%;
+
 }
 .resume p{
     text-align: center;
 }
+
 #resumeEducation{
     width:10%;
 }
+
+.more{
+    margin-top: 25px;
+}
+
 @media only screen and (max-width: 550px){
     #education h1{
         font-size: 100%;
@@ -34,5 +49,10 @@
     }
     #education a{
         font-size: 57%;
+    }
+
+    .education img{
+        height:50px;
+        width:50px;
     }
 }
